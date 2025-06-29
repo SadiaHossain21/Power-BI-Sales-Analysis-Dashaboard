@@ -76,6 +76,10 @@ This dashboard helps stakeholders:
 
 ---
 
-## Contact
+## Author
 
-For questions or collaboration, contact me.
+**Sadia Hossain**  
+MSc Data Science | SQL • Python • Power BI  
+sadiahossain2101@gmail.com  
+[LinkedIn](https://www.linkedin.com/in/sadia-hossain-297993251/)
+
