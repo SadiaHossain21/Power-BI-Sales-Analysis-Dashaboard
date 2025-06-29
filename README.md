@@ -8,6 +8,10 @@ This project features an interactive **Power BI dashboard** for analyzing sales 
 [View on Power BI Service](https://app.powerbi.com/view?r=eyJrIjoiMGJjOGFjZGQtOWUyYS00MjA5LTgwYTQtNGE3ZGQ4YmE0N2Q3IiwidCI6ImQxNzcyNDUxLTYxMmUtNDljZS1iNjUzLWYxYThkMjI4MmZmZCJ9)
 
 ---
+## Dataset
+[Dataset link](https://www.kaggle.com/datasets/sadia21121/adventure-bike-sales-dataset)
+
+---
 
 ## Pages Overview
 
