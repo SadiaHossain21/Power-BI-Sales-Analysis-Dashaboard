@@ -81,5 +81,5 @@ This dashboard helps stakeholders:
 **Sadia Hossain**  
 MSc Data Science | SQL • Python • Power BI  
 sadiahossain2101@gmail.com  
-[LinkedIn](https://www.linkedin.com/in/sadia-hossain-297993251/)
+[LinkedIn](https://www.linkedin.com/in/sadia2101-hossain/)
 
